@@ -1,0 +1,13 @@
+# Update the sysytem
+
+sudo apt update
+
+sudo apt upgrade
+
+# Install Tools
+
+sudo apt install nmap
+
+# Remove Tools 
+
+sudo apt remove package
