@@ -38,5 +38,23 @@ Networking is the process of connecting multiple systems to:
 
 ### Check your IP:
 ```bash
-ip a
+ip a```
 
+IP
+│
+└── Identifies a network-layer destination/interface
+
+
+MAC
+│
+└── Identifies a link-layer network interface
+
+
+PORT
+│
+└── Identifies a transport-layer service endpoint
+
+
+PROCESS
+│
+└── Running instance of a program
